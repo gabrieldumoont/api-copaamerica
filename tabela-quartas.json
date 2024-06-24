@@ -1,0 +1,54 @@
+[
+    {
+        "data-hora": "04/07, 22:00",
+        "times": [
+            {
+                "nome": "Argentina",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png"
+            },
+            {
+                "nome": "Chile",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cI5rCchv6SjDgZ5NuEaMMQ_48x48.png"
+            }
+        ]
+    },
+    {
+        "data-hora": "05/07, 22:00",
+        "times": [
+            {
+                "nome": "México",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_48x48.png"
+            },
+            {
+                "nome": "Equador",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_48x48.png"
+            }
+        ]
+    },
+    {
+        "data-hora": "06/07, 19:00",
+        "times": [
+            {
+                "nome": "Uruguai",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png"
+            },
+            {
+                "nome": "Estados Unidos",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png"
+            }
+        ]
+    },
+    {
+        "data-hora": "06/07, 22:00",
+        "times": [
+            {
+                "nome": "Brasil",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
+            },
+            {
+                "nome": "Colômbia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png"
+            }
+        ]
+    }
+]
