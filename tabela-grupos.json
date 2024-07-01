@@ -8,9 +8,9 @@
                 "posicao": 1,
                 "pontos": 9,
                 "vitorias": 3,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 0,
-                "saldo-gol": 5
+                "saldogol": 5
             },
             {
                 "nome": "Canadá",
@@ -18,9 +18,9 @@
                 "posicao": 2,
                 "pontos": 4,
                 "vitorias": 1,
-                "empate": 1,
+                "empates": 1,
                 "derrotas": 1,
-                "saldo-gol": -1
+                "saldogol": -1
             },
             {
                 "nome": "Chile",
@@ -28,9 +28,9 @@
                 "posicao": 3,
                 "pontos": 2,
                 "vitorias": 0,
-                "empate": 2,
+                "empates": 2,
                 "derrotas": 1,
-                "saldo-gol": -1
+                "saldogol": -1
             },
             {
                 "nome": "Peru",
@@ -38,9 +38,9 @@
                 "posicao": 4,
                 "pontos": 1,
                 "vitorias": 0,
-                "empate": 1,
+                "empates": 1,
                 "derrotas": 2,
-                "saldo-gol": -3
+                "saldogol": -3
             }
         ]
     },
@@ -53,9 +53,9 @@
                 "posicao": 1,
                 "pontos": 9,
                 "vitorias": 3,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 0,
-                "saldo-gol": 5
+                "saldogol": 5
             },
             {
                 "nome": "Equador",
@@ -63,9 +63,9 @@
                 "posicao": 2,
                 "pontos": 4,
                 "vitorias": 1,
-                "empate": 1,
+                "empates": 1,
                 "derrotas": 1,
-                "saldo-gol": 1
+                "saldogol": 1
             },
             {
                 "nome": "México",
@@ -73,9 +73,9 @@
                 "posicao": 3,
                 "pontos": 4,
                 "vitorias": 1,
-                "empate": 1,
+                "empates": 1,
                 "derrotas": 1,
-                "saldo-gol": 0
+                "saldogol": 0
             },
             {
                 "nome": "Jamaica",
@@ -83,9 +83,9 @@
                 "posicao": 4,
                 "pontos": 0,
                 "vitorias": 0,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 3,
-                "saldo-gol": -6
+                "saldogol": -6
             }
         ]
     },
@@ -98,9 +98,9 @@
                 "posicao": 1,
                 "pontos": 9,
                 "vitorias": 3,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 3,
-                "saldo-gol": 10
+                "saldogol": 10
             },
             {
                 "nome": "Panamá",
@@ -108,9 +108,9 @@
                 "posicao": 2,
                 "pontos": 6,
                 "vitorias": 2,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 1,
-                "saldo-gol": 0
+                "saldogol": 0
             },
             {
                 "nome": "Estados Unidos",
@@ -118,9 +118,9 @@
                 "posicao": 3,
                 "pontos": 3,
                 "vitorias": 1,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 2,
-                "saldo-gol": -2
+                "saldogol": -2
             },
             {
                 "nome": "Bolívia",
@@ -128,9 +128,9 @@
                 "posicao": 4,
                 "pontos": 0,
                 "vitorias": 0,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 3,
-                "saldo-gol": -8
+                "saldogol": -8
             }
         ]
     },
@@ -143,7 +143,7 @@
                 "posicao": 1,
                 "pontos": 7,
                 "vitorias": 2,
-                "empate": 1,
+                "empates": 1,
                 "derrotas": 0,
                 "saldo-gol": 5
             },
@@ -153,9 +153,9 @@
                 "posicao": 2,
                 "pontos": 6,
                 "vitorias": 2,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 0,
-                "saldo-gol": 2
+                "saldogol": 2
             },
             {
                 "nome": "Paraguai",
@@ -163,9 +163,9 @@
                 "posicao": 3,
                 "pontos": 3,
                 "vitorias": 1,
-                "empate": 0,
+                "empates": 0,
                 "derrotas": 2,
-                "saldo-gol": -3
+                "saldogol": -3
             },
             {
                 "nome": "Costa Rica",
@@ -173,9 +173,9 @@
                 "posicao": 4,
                 "pontos": 1,
                 "vitorias": 0,
-                "empate": 1,
+                "empates": 1,
                 "derrotas": 2,
-                "saldo-gol": -4
+                "saldogol": -4
             }
         ]
     }
