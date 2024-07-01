@@ -35,12 +35,12 @@
             {
                 "nome": "Uruguai",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png",
-                "gols": 1 (3)
+                "gols": "1 (3)"
             },
             {
                 "nome": "Colômbia",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png",
-                "gols": 1 (4)
+                "gols": "1 (4)"
             }
         ]
     },
