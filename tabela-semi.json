@@ -4,11 +4,13 @@
         "times": [
             {
                 "nome": "Argentina",
-                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png"
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                "gols": 2
             },
             {
-                "nome": "México",
-                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_48x48.png"
+                "nome": "Venezuela",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_48x48.png",
+                "gols": 0
             }
         ]
     },
@@ -18,10 +20,12 @@
             {
                 "nome": "Brasil",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
+                "gols": 3
             },
             {
-                "nome": "Uruguai",
-                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png"
+                "nome": "Colômbia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png"
+                "gols": 1
             }
         ]
     }
