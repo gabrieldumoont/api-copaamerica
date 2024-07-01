@@ -1,6 +1,6 @@
 [
     {
-        "data-hora": "04/07, 22:00",
+        "datahora": "04/07, 22:00",
         "times": [
             {
                 "nome": "Argentina",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "data-hora": "05/07, 22:00",
+        "datahora": "05/07, 22:00",
         "times": [
             {
                 "nome": "Venezuela",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "data-hora": "06/07, 19:00",
+        "datahora": "06/07, 19:00",
         "times": [
             {
                 "nome": "Uruguai",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "data-hora": "06/07, 22:00",
+        "datahora": "06/07, 22:00",
         "times": [
             {
                 "nome": "Brasil",
