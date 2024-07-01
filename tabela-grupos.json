@@ -1,7 +1,7 @@
 [
     {
         "grupo": "A",
-        "time": [
+        "times": [
             {
                 "nome": "Argentina",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png"
@@ -22,7 +22,7 @@
     },
     {
         "grupo": "B",
-        "time": [
+        "times": [
             {
                 "nome": "Venezuela",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_48x48.png"
@@ -43,7 +43,7 @@
     },
     {
         "grupo": "C",
-        "time": [
+        "times": [
             {
                 "nome": "Uruguai",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png"
@@ -64,7 +64,7 @@
     },
     {
         "grupo": "D",
-        "time": [
+        "times": [
             {
                 "nome": "Brasil",
                 "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
