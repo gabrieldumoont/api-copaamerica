@@ -19,12 +19,12 @@
         "times": [
             {
                 "nome": "Brasil",
-                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png"
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
                 "gols": 3
             },
             {
                 "nome": "Colômbia",
-                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png"
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png",
                 "gols": 1
             }
         ]
