@@ -1,6 +1,7 @@
 [
     {
         "datahora": "09/07, 21:00",
+        "estadio": "MetLife Stadium (Nova Jersey, USA)",
         "times": [
             {
                 "nome": "Argentina",
@@ -16,6 +17,7 @@
     },
     {
         "datahora": "10/07, 21:00",
+        "estadio": "Bank of America Stadium (Charlotte, USA)",
         "times": [
             {
                 "nome": "Brasil",
