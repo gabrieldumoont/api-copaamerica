@@ -1,6 +1,7 @@
 [
     {
         "datahora": "04/07, 22:00",
+        "estadio": "NRG Stadium (Houston, USA)",
         "times": [
             {
                 "nome": "Argentina",
@@ -16,6 +17,7 @@
     },
     {
         "datahora": "05/07, 22:00",
+        "estadio": "AT&T Staduim (Arlington, USA)",
         "times": [
             {
                 "nome": "Venezuela",
@@ -31,6 +33,7 @@
     },
     {
         "datahora": "06/07, 19:00",
+        "estadio": "University of Phoenix Staduim (Phoenix, USA)",
         "times": [
             {
                 "nome": "Uruguai",
@@ -46,6 +49,7 @@
     },
     {
         "datahora": "06/07, 22:00",
+        "estadio": "Allegiant Staduim (Las Vegas, USA)",
         "times": [
             {
                 "nome": "Brasil",
